@@ -1,18 +1,12 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Here is my implementation of some algorithms and data structures in Java. I wrote the code in the program Vscode.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The workspace contains folders, where:
 
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `algorithms`: the folder for storing the algorithms of such different sorting
+- `data_structures`: A folder for storing classes that implement different data structures, e.g. ArrayList
+- `tests`: folder for checking the work of the data structures
